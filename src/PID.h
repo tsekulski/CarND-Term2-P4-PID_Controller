@@ -9,6 +9,7 @@ public:
   double p_error;
   double i_error;
   double d_error;
+  double total_error; //for Twiddle
 
   /*
   * Coefficients
@@ -41,6 +42,11 @@ public:
   * Calculate the total PID error.
   */
   double TotalError();
+
+  /*
+  * Run twiddle algorithm.
+  */
+  void Twiddle();
 };
 
 #endif /* PID_H */
