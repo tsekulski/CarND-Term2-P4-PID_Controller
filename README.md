@@ -37,8 +37,8 @@ Ki = 0.0022
 Kd = 4.891
 
 The logs from each of the cycles can be found in the attached files:
-# twiddle_logs_200_time_steps_30_iterations
-# twiddle_logs_500_time_steps_50_iterations
+### twiddle_logs_200_time_steps_30_iterations
+### twiddle_logs_500_time_steps_50_iterations
 
 I could run twiddle with more time steps (e.g. entire track) and more iterations, but it was very time-consuming to wait for all the iterations to run. Since my car was already completing the track without crashing, I decided not to further optimize the parameters and settled for the ones from the second twiddle cycle.
 
