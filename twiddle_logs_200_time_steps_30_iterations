@@ -1,0 +1,360 @@
+Twiddle logs - resetting the simulator after 200 "time steps" (i.e. at the beginning of the first left turn) - 30 iterations
+
+Initializing PID with:
+Kp = 0.2
+Ki = 0.004
+Kd = 3
+Listening to port 4567
+Connected!!!
+First run; best_err = 20.1612
+Initializing PID with:
+Kp = 0.2
+Ki = 0.004
+Kd = 3
+Connected!!!
+Best error = 20.1612, current error = 20.4517
+ 
+***************
+Iteration = 0
+Twiddling Kp, parameter flag = 0
+Twiddle iteration = 0
+Initializing PID with:
+Kp = 0.3
+Ki = 0.004
+Kd = 3
+Connected!!!
+Best error = 20.1612, current error = 16.3792
+ 
+***************
+Iteration = 1
+Twiddling Kp, parameter flag = 0
+Twiddle iteration = 1
+Initializing PID with:
+Kp = 0.3
+Ki = 0.004
+Kd = 3
+Connected!!!
+Best error = 16.3792, current error = 17.0266
+ 
+***************
+Iteration = 2
+Twiddling Ki, parameter flag = 1
+Twiddle iteration = 0
+Initializing PID with:
+Kp = 0.3
+Ki = 0.006
+Kd = 3
+Connected!!!
+Best error = 16.3792, current error = 17.5523
+ 
+***************
+Iteration = 3
+Twiddling Ki, parameter flag = 1
+Twiddle iteration = 1
+Initializing PID with:
+Kp = 0.3
+Ki = 0.002
+Kd = 3
+Connected!!!
+Best error = 16.3792, current error = 16.0343
+ 
+***************
+Iteration = 4
+Twiddling Ki, parameter flag = 1
+Twiddle iteration = 2
+Initializing PID with:
+Kp = 0.3
+Ki = 0.002
+Kd = 3
+Connected!!!
+Best error = 16.0343, current error = 16.1347
+ 
+***************
+Iteration = 5
+Twiddling Kd, parameter flag = 2
+Twiddle iteration = 0
+Initializing PID with:
+Kp = 0.3
+Ki = 0.002
+Kd = 4
+Connected!!!
+Best error = 16.0343, current error = 15.8892
+ 
+***************
+Iteration = 6
+Twiddling Kd, parameter flag = 2
+Twiddle iteration = 1
+Initializing PID with:
+Kp = 0.3
+Ki = 0.002
+Kd = 4
+Connected!!!
+Best error = 15.8892, current error = 15.7089
+ 
+***************
+Iteration = 7
+Twiddling Kp, parameter flag = 0
+Twiddle iteration = 0
+Initializing PID with:
+Kp = 0.41
+Ki = 0.002
+Kd = 4
+Connected!!!
+Best error = 15.8892, current error = 14.596
+ 
+***************
+Iteration = 8
+Twiddling Kp, parameter flag = 0
+Twiddle iteration = 1
+Initializing PID with:
+Kp = 0.41
+Ki = 0.002
+Kd = 4
+Connected!!!
+Best error = 14.596, current error = 14.8039
+ 
+***************
+Iteration = 9
+Twiddling Ki, parameter flag = 1
+Twiddle iteration = 0
+Initializing PID with:
+Kp = 0.41
+Ki = 0.0042
+Kd = 4
+Connected!!!
+Best error = 14.596, current error = 15.7814
+ 
+***************
+Iteration = 10
+Twiddling Ki, parameter flag = 1
+Twiddle iteration = 1
+Initializing PID with:
+Kp = 0.41
+Ki = -0.0002
+Kd = 4
+Connected!!!
+Best error = 14.596, current error = 16.7221
+ 
+***************
+Iteration = 11
+Twiddling Ki, parameter flag = 1
+Twiddle iteration = 2
+Initializing PID with:
+Kp = 0.41
+Ki = 0.002
+Kd = 4
+Connected!!!
+Best error = 14.596, current error = 14.9368
+ 
+***************
+Iteration = 12
+Twiddling Kd, parameter flag = 2
+Twiddle iteration = 0
+Initializing PID with:
+Kp = 0.41
+Ki = 0.002
+Kd = 5.1
+Connected!!!
+Best error = 14.596, current error = 15.5797
+ 
+***************
+Iteration = 13
+Twiddling Kd, parameter flag = 2
+Twiddle iteration = 1
+Initializing PID with:
+Kp = 0.41
+Ki = 0.002
+Kd = 2.9
+Connected!!!
+Best error = 14.596, current error = 14.5453
+ 
+***************
+Iteration = 14
+Twiddling Kd, parameter flag = 2
+Twiddle iteration = 2
+Initializing PID with:
+Kp = 0.41
+Ki = 0.002
+Kd = 2.9
+Connected!!!
+Best error = 14.5453, current error = 15.3514
+ 
+***************
+Iteration = 15
+Twiddling Kp, parameter flag = 0
+Twiddle iteration = 0
+Initializing PID with:
+Kp = 0.531
+Ki = 0.002
+Kd = 2.9
+Connected!!!
+Best error = 14.5453, current error = 13.5859
+ 
+***************
+Iteration = 16
+Twiddling Kp, parameter flag = 0
+Twiddle iteration = 1
+Initializing PID with:
+Kp = 0.531
+Ki = 0.002
+Kd = 2.9
+Connected!!!
+Best error = 13.5859, current error = 14.8406
+ 
+***************
+Iteration = 17
+Twiddling Ki, parameter flag = 1
+Twiddle iteration = 0
+Initializing PID with:
+Kp = 0.531
+Ki = 0.00398
+Kd = 2.9
+Connected!!!
+Best error = 13.5859, current error = 15.0928
+ 
+***************
+Iteration = 18
+Twiddling Ki, parameter flag = 1
+Twiddle iteration = 1
+Initializing PID with:
+Kp = 0.531
+Ki = 2e-05
+Kd = 2.9
+Connected!!!
+Best error = 13.5859, current error = 15.6466
+ 
+***************
+Iteration = 19
+Twiddling Ki, parameter flag = 1
+Twiddle iteration = 2
+Initializing PID with:
+Kp = 0.531
+Ki = 0.002
+Kd = 2.9
+Connected!!!
+Best error = 13.5859, current error = 14.6095
+ 
+***************
+Iteration = 20
+Twiddling Kd, parameter flag = 2
+Twiddle iteration = 0
+Initializing PID with:
+Kp = 0.531
+Ki = 0.002
+Kd = 4.11
+Connected!!!
+Best error = 13.5859, current error = 14.35
+ 
+***************
+Iteration = 21
+Twiddling Kd, parameter flag = 2
+Twiddle iteration = 1
+Initializing PID with:
+Kp = 0.531
+Ki = 0.002
+Kd = 1.69
+Connected!!!
+Best error = 13.5859, current error = 20.1596
+ 
+***************
+Iteration = 22
+Twiddling Kd, parameter flag = 2
+Twiddle iteration = 2
+Initializing PID with:
+Kp = 0.531
+Ki = 0.002
+Kd = 2.9
+Connected!!!
+Best error = 13.5859, current error = 15.4954
+ 
+***************
+Iteration = 23
+Twiddling Kp, parameter flag = 0
+Twiddle iteration = 0
+Initializing PID with:
+Kp = 0.6641
+Ki = 0.002
+Kd = 2.9
+Connected!!!
+Best error = 13.5859, current error = 14.9858
+ 
+***************
+Iteration = 24
+Twiddling Kp, parameter flag = 0
+Twiddle iteration = 1
+Initializing PID with:
+Kp = 0.3979
+Ki = 0.002
+Kd = 2.9
+Connected!!!
+Best error = 13.5859, current error = 14.653
+ 
+***************
+Iteration = 25
+Twiddling Kp, parameter flag = 0
+Twiddle iteration = 2
+Initializing PID with:
+Kp = 0.531
+Ki = 0.002
+Kd = 2.9
+Connected!!!
+Best error = 13.5859, current error = 14.4171
+ 
+***************
+Iteration = 26
+Twiddling Ki, parameter flag = 1
+Twiddle iteration = 0
+Initializing PID with:
+Kp = 0.531
+Ki = 0.003782
+Kd = 2.9
+Connected!!!
+Best error = 13.5859, current error = 14.8145
+ 
+***************
+Iteration = 27
+Twiddling Ki, parameter flag = 1
+Twiddle iteration = 1
+Initializing PID with:
+Kp = 0.531
+Ki = 0.000218
+Kd = 2.9
+Connected!!!
+Best error = 13.5859, current error = 15.2195
+ 
+***************
+Iteration = 28
+Twiddling Ki, parameter flag = 1
+Twiddle iteration = 2
+Initializing PID with:
+Kp = 0.531
+Ki = 0.002
+Kd = 2.9
+Connected!!!
+Best error = 13.5859, current error = 15.3564
+ 
+***************
+Iteration = 29
+Twiddling Kd, parameter flag = 2
+Twiddle iteration = 0
+Initializing PID with:
+Kp = 0.531
+Ki = 0.002
+Kd = 3.989
+Connected!!!
+Best error = 13.5859, current error = 14.0826
+ 
+***************
+Iteration = 30
+Twiddling Kd, parameter flag = 2
+Twiddle iteration = 1
+Initializing PID with:
+Kp = 0.531
+Ki = 0.002
+Kd = 1.811
+Connected!!!
+Segmentation fault (core dumped)
+
+
+
+
