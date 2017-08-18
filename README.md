@@ -6,9 +6,9 @@ PID controller implementation in C++ - part of Udacity's Self-Driving Car Engine
 ## 1. Parameter values
 
 In my implementation I settled for the following parameters:
-*Kp = 0.29
-*Ki = 0.0022
-*Kd = 4.891
+* Kp = 0.29
+* Ki = 0.0022
+* Kd = 4.891
 
 Interestingly, the Kd parameter (differential control parameter) has the highest value, i.e. the steering reacts most strongly to the difference between the previous and the current cross-track errors (CTEs). The Kd value is some 17 times higher than the Kp value (where Kp represents the proportional reaction of the steering to the current CTE value). The way I understand it works is following:
 *a) When the CTE improvements (i.e. difference between current and previous CTEs) are "small" comparing to overall CTE (i.e. the car is far away from the target), then the proportional steering has higher weight and makes sure the car steers "towards" the target.
