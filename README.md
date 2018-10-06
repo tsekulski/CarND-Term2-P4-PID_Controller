@@ -1,5 +1,10 @@
 # CarND-Term2-P4-PID_Controller
-PID controller implementation in C++ - part of Udacity's Self-Driving Car Engineer nanodegree program
+
+_Technologies: PID control, C++_
+
+Implemented a PID controller in C++ to maneuver a vehicle around a track.
+
+_Part of the Self-Driving Car Engineer Nanodegree Program_
 
 # Reflection
 
